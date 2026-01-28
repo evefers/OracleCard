@@ -14,10 +14,10 @@ const Home = () => {
         </div>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 pt-10">
-=
+
           <div className="inline-block mb-4">
             <span className="bg-slate-100 text-slate-600 px-4 py-1.5 rounded-full text-xs font-bold tracking-widest uppercase border border-slate-200">
-              Oracle Deck v2.0
+              Oracle Deck v1.0
             </span>
           </div>
 

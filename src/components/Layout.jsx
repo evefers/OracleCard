@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
                 <NavLink to="/">Sanctuary</NavLink>
-                <NavLink to="/reading">Readings</NavLink>
+                <NavLink to="/reading">Reading</NavLink>
                 <NavLink to="/contact">Contact</NavLink>
               </div>
             </div>
@@ -69,7 +69,7 @@ const Layout = ({ children }) => {
       {/* Footer */}
       <footer className="bg-white border-t border-slate-200 py-10 mt-auto">
         <div className="max-w-7xl mx-auto px-4 text-center">
-          <p className="text-slate-400 text-sm">© 2024 Lumina Oracle. Minimalist Edition.</p>
+          <p className="text-slate-400 text-sm">© 2026 Oracle Card by Lumina</p>
         </div>
       </footer>
     </div>
