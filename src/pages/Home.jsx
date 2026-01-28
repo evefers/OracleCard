@@ -6,7 +6,7 @@ import Card3D from '../components/Card3D';
 const Home = () => {
   return (
     <section className="relative overflow-hidden min-h-[90vh] flex flex-col justify-center bg-slate-50">
-        
+
         {/* Simple Background Decor */}
         <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
             <div className="absolute top-[-10%] right-[-5%] w-[500px] h-[500px] bg-purple-100 rounded-full blur-[100px] opacity-60"></div>
@@ -14,7 +14,7 @@ const Home = () => {
         </div>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10 pt-10">
-          
+=
           <div className="inline-block mb-4">
             <span className="bg-slate-100 text-slate-600 px-4 py-1.5 rounded-full text-xs font-bold tracking-widest uppercase border border-slate-200">
               Oracle Deck v2.0
@@ -27,7 +27,7 @@ const Home = () => {
           </h1>
 
           <p className="max-w-xl mx-auto text-lg text-slate-600 mb-10 leading-relaxed">
-            A minimalist approach to ancient wisdom. Consult the 90-card deck to illuminate your path forward.
+            A minimalist approach to ancient wisdom. Consult the cards deck to illuminate your path forward.
           </p>
 
           <div className="flex justify-center gap-4 mb-20">
